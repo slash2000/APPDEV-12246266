@@ -82,7 +82,7 @@ When the code is run, it will print "Hello, John".
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
 
-| Function | Description |
+| Function |Description |
 | ------ | ------ |
 | print() | The *print* function is used to display output to the console. |
 | len() | The *len* function is used to find the length of a string or a list. |
